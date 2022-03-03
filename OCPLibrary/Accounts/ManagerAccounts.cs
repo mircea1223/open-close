@@ -14,7 +14,7 @@ namespace OCPLibrary
 
             output.FirstName = person.FirstName;
             output.LastName = person.LastName;
-            output.EmailAddress = $"{ person.FirstName.Substring(0, 1) }{person.LastName}@firmamanager.com";
+            output.EmailAddress = $"{ person.FirstName.Substring(0, 1) }{person.LastName}@firmaexe.com";
 
             output.IsManager = true;
 
