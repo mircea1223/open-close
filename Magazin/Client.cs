@@ -1,20 +1,9 @@
 ﻿
+using Magazin;
 
-
-
-
-
-
-
-
-
-
-
-
-public class Client
+public class Client : Person
 {
-    public string Name { get; set; }   
-    public int Age { get; set; }
+    public int ClientId { get; set; }
 
 }
 
