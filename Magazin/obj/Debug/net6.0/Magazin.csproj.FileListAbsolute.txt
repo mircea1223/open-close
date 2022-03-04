@@ -1,0 +1,15 @@
+C:\Users\mirce\Desktop\TimProjects\Magazin\Magazin\bin\Debug\net6.0\Magazin.exe
+C:\Users\mirce\Desktop\TimProjects\Magazin\Magazin\bin\Debug\net6.0\Magazin.deps.json
+C:\Users\mirce\Desktop\TimProjects\Magazin\Magazin\bin\Debug\net6.0\Magazin.runtimeconfig.json
+C:\Users\mirce\Desktop\TimProjects\Magazin\Magazin\bin\Debug\net6.0\Magazin.dll
+C:\Users\mirce\Desktop\TimProjects\Magazin\Magazin\bin\Debug\net6.0\ref\Magazin.dll
+C:\Users\mirce\Desktop\TimProjects\Magazin\Magazin\bin\Debug\net6.0\Magazin.pdb
+C:\Users\mirce\Desktop\TimProjects\Magazin\Magazin\obj\Debug\net6.0\Magazin.csproj.AssemblyReference.cache
+C:\Users\mirce\Desktop\TimProjects\Magazin\Magazin\obj\Debug\net6.0\Magazin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirce\Desktop\TimProjects\Magazin\Magazin\obj\Debug\net6.0\Magazin.AssemblyInfoInputs.cache
+C:\Users\mirce\Desktop\TimProjects\Magazin\Magazin\obj\Debug\net6.0\Magazin.AssemblyInfo.cs
+C:\Users\mirce\Desktop\TimProjects\Magazin\Magazin\obj\Debug\net6.0\Magazin.csproj.CoreCompileInputs.cache
+C:\Users\mirce\Desktop\TimProjects\Magazin\Magazin\obj\Debug\net6.0\Magazin.dll
+C:\Users\mirce\Desktop\TimProjects\Magazin\Magazin\obj\Debug\net6.0\ref\Magazin.dll
+C:\Users\mirce\Desktop\TimProjects\Magazin\Magazin\obj\Debug\net6.0\Magazin.pdb
+C:\Users\mirce\Desktop\TimProjects\Magazin\Magazin\obj\Debug\net6.0\Magazin.genruntimeconfig.cache

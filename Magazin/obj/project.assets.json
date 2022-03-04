@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mirce\\Desktop\\TimProjects\\CarInheritance\\CarInheritance\\CarInheritance.csproj",
-      "projectName": "CarInheritance",
-      "projectPath": "C:\\Users\\mirce\\Desktop\\TimProjects\\CarInheritance\\CarInheritance\\CarInheritance.csproj",
+      "projectUniqueName": "C:\\Users\\mirce\\Desktop\\TimProjects\\Magazin\\Magazin\\Magazin.csproj",
+      "projectName": "Magazin",
+      "projectPath": "C:\\Users\\mirce\\Desktop\\TimProjects\\Magazin\\Magazin\\Magazin.csproj",
       "packagesPath": "C:\\Users\\mirce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mirce\\Desktop\\TimProjects\\CarInheritance\\CarInheritance\\obj\\",
+      "outputPath": "C:\\Users\\mirce\\Desktop\\TimProjects\\Magazin\\Magazin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mirce\\AppData\\Roaming\\NuGet\\NuGet.Config",
