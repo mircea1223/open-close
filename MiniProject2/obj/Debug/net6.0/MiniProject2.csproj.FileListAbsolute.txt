@@ -1,0 +1,15 @@
+C:\Users\mirce\Desktop\TimProjects\MiniProject2\MiniProject2\bin\Debug\net6.0\MiniProject2.exe
+C:\Users\mirce\Desktop\TimProjects\MiniProject2\MiniProject2\bin\Debug\net6.0\MiniProject2.deps.json
+C:\Users\mirce\Desktop\TimProjects\MiniProject2\MiniProject2\bin\Debug\net6.0\MiniProject2.runtimeconfig.json
+C:\Users\mirce\Desktop\TimProjects\MiniProject2\MiniProject2\bin\Debug\net6.0\MiniProject2.dll
+C:\Users\mirce\Desktop\TimProjects\MiniProject2\MiniProject2\bin\Debug\net6.0\ref\MiniProject2.dll
+C:\Users\mirce\Desktop\TimProjects\MiniProject2\MiniProject2\bin\Debug\net6.0\MiniProject2.pdb
+C:\Users\mirce\Desktop\TimProjects\MiniProject2\MiniProject2\obj\Debug\net6.0\MiniProject2.csproj.AssemblyReference.cache
+C:\Users\mirce\Desktop\TimProjects\MiniProject2\MiniProject2\obj\Debug\net6.0\MiniProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirce\Desktop\TimProjects\MiniProject2\MiniProject2\obj\Debug\net6.0\MiniProject2.AssemblyInfoInputs.cache
+C:\Users\mirce\Desktop\TimProjects\MiniProject2\MiniProject2\obj\Debug\net6.0\MiniProject2.AssemblyInfo.cs
+C:\Users\mirce\Desktop\TimProjects\MiniProject2\MiniProject2\obj\Debug\net6.0\MiniProject2.csproj.CoreCompileInputs.cache
+C:\Users\mirce\Desktop\TimProjects\MiniProject2\MiniProject2\obj\Debug\net6.0\MiniProject2.dll
+C:\Users\mirce\Desktop\TimProjects\MiniProject2\MiniProject2\obj\Debug\net6.0\ref\MiniProject2.dll
+C:\Users\mirce\Desktop\TimProjects\MiniProject2\MiniProject2\obj\Debug\net6.0\MiniProject2.pdb
+C:\Users\mirce\Desktop\TimProjects\MiniProject2\MiniProject2\obj\Debug\net6.0\MiniProject2.genruntimeconfig.cache
